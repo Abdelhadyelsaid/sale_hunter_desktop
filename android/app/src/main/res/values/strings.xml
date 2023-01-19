@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sale Hunter</string>
+    <string name="facebook_app_id">988568208536744</string>
+    <string name="fb_login_protocol_scheme">fb1365719610250300</string>
+    <string name="facebook_client_token">fb170ee88cff39cd44824befc274411e</string>
+</resources>
